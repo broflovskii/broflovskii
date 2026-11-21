@@ -3,7 +3,7 @@
   <br>
 </p>
 
-$$\color{#DEB3CE}{\text{Ponytown's Stan Marsh}}$$
+$$\color{#DEB3CE}{\text{𝐏ⱺ𐓣𝗒𝗍ⱺω𐓣’𝗌 𝐒𝗍α𐓣 𝐌α𝗋𝗌ɦ⋆⑅˚₊}}$$
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8b6c3e61-43f3-4785-b5dc-771fc1e863e7" width="80">
