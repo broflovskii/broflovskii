@@ -1,7 +1,6 @@
 <p align="center">
-  
-<a href=“https://github.com/marvelous-pt” > @marvelous-pt
-</a>
+  <a href="https://github.com/marvelous-pt">@marvelous-pt</a>
+</p>
 
 </details>
 <p align="center">
