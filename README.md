@@ -1,10 +1,10 @@
-<p align="center">
 <details>
-<summary> </summary>
+<summary> @marvelous-pt </summary>
+<img width="300" height="180" alt="image" src="https://github.com/user-attachments/assets/4798ffdb-2221-43bd-8170-5006d56fe439" />
 
-Burada gizli yazı və ya şəkil olacaq!
 
 </details>
+<p align="center">
   <img src="https://github.com/user-attachments/assets/8b6c3e61-43f3-4785-b5dc-771fc1e863e7" width="80">
   <img src="https://img.shields.io/badge/%3E%E1%B4%A5%3C-6,320-c9a4c3?style=flat&labelColor=333333" alt=">ㅅ< 6,320">
   <img src="https://github.com/user-attachments/assets/6533cf87-83f7-431c-b588-d4f45ac5a830" width="80">
