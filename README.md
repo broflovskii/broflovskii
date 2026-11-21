@@ -3,7 +3,6 @@
   <br>
 $${\color{#D0A0BF} ꫂ᭪݁𝐏ⱺ𐓣𝗒𝗍ⱺω𐓣’𝗌\space 𝐒𝗍α𐓣\space 𝐌α𝗋𝗌ɦ ۪𓈒 ຼ ͜𓐇˚ִִ\space}$$
 </p>
-<font color="#D0A0BF">𝐏ⱺ𐓣𝗒𝗍ⱺω𐓣’𝗌 𝐒𝗍α𐓣 𝐌α𝗋𝗌ɦ</font>
 
 </details>
 <p align="center">
