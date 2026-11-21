@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/marvelous-pt">@marvelous-pt</a>
   <br>
-$${\color{#D0A0BF} ꫂ᭪݁𝐏ⱺ𐓣𝗒𝗍ⱺω𐓣’𝗌\space 𝐒𝗍α𐓣\space 𝐌α𝗋𝗌ɦ ۪𓈒 ຼ ͜𓐇˚ִִ\space}$$
+$$${\color{#D0A0BF}\text{𝐏ⱺ𐓣𝗒𝗍ⱺω𐓣’𝗌 𝐒𝗍α𐓣 𝐌α𝗋𝗌ɦ}}$$$
 </p>
 
 </details>
