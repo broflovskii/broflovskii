@@ -1,4 +1,10 @@
 <p align="center">
+<details>
+<summary> </summary>
+
+Burada gizli yazı və ya şəkil olacaq!
+
+</details>
   <img src="https://github.com/user-attachments/assets/8b6c3e61-43f3-4785-b5dc-771fc1e863e7" width="80">
   <img src="https://img.shields.io/badge/%3E%E1%B4%A5%3C-6,320-c9a4c3?style=flat&labelColor=333333" alt=">ㅅ< 6,320">
   <img src="https://github.com/user-attachments/assets/6533cf87-83f7-431c-b588-d4f45ac5a830" width="80">
