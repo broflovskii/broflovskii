@@ -2,7 +2,7 @@
   <a href="https://github.com/marvelous-pt">@marvelous-pt</a>
   <br>
 </p>
-$${\color{#d0a0bf}Ponytown’s\space Stan\space Marsh\space}$$
+$${\color{#d0a0bf}\text{Ponytown’s\ Stan\ Marsh}}$$
 
 </details>
 <p align="center">
