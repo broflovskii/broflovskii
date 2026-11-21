@@ -1,7 +1,8 @@
-<details>
-<summary> @marvelous-pt </summary>
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/4798ffdb-2221-43bd-8170-5006d56fe439" />
-
+<p align="center">
+  
+<a href=" ">
+  <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0f221280-5f12-497d-99d8-978777d6f85b" /> @marvelous-pt
+</a>
 
 </details>
 <p align="center">
