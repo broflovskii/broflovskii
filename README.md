@@ -1,7 +1,7 @@
 <p align="center">
   
 <a href=" ">
-  <src="https://github.com/user-attachments/assets/0f221280-5f12-497d-99d8-978777d6f85b" /> @marvelous-pt
+  <src="https://github.com/marvelous-pt" /> @marvelous-pt
 </a>
 
 </details>
